@@ -1,0 +1,175 @@
+#!/usr/bin/bash
+clear
+echo
+echo -e '\e[1;35m'
+figlet -f slant IES Installer
+echo -e '\e[1;36m' '============================================================='
+echo -e '\e[1;31m' "Author      = ALX-04 ^_<"
+echo -e '\e[1;31m' "Team        = INDONESIAN ERROR SYSTEM"
+echo -e '\e[1;31m' "Facebook    = Aldi Linalda"  
+echo -e '\e[1;31m' "Email       = aldilinalda12@gmail.com"     
+echo -e '\e[1;33m' "                        GRETS TO:  
+ Mr.:/R1zK1 | CIPPEL | r1c3-4 | AMRiezZ | Mr.BL4NGK0N4N | 
+ M4RV3L-23 | IRFAN |N4ST4R_ID | UKHWAH ISLAMIYAH | 
+ Mr.3V0LUT10N | BITCHIS | BOY NAINGGOLAN | And ALL MEMBER "
+echo -e '\e[1;36m' '============================================================='
+echo -e '\e[1;31m' "[u]IES SPAM"
+echo -e '\e[1;31m' "[1]SpiderBot"
+echo -e '\e[1;31m' "[2]Dorker Sqli"
+echo -e '\e[1;31m' "[3]Multi Bruteforce"
+echo -e '\e[1;31m' "[4]Spam Call OTP"
+echo -e '\e[1;31m' "[5]Ddos Hammer"
+echo -e '\e[1;31m' "[6]LITE SPAM"
+echo -e '\e[1;31m' "[7]Lazymux"
+echo -e '\e[1;31m' "[8]Tool-X"
+echo -e '\e[1;31m' "[9]Zambie"
+echo -e '\e[1;37m' "[0]Admin Penal"
+echo -e '\e[1;37m' "[e]Instabot"
+echo -e '\e[1;37m' "[r]Weeman"
+echo -e '\e[1;37m' "[R]Hunner"
+echo -e '\e[1;37m' "[o]Sqlmap"
+echo -e '\e[1;37m' "[rr]Ddos Xerses"
+echo -e '\e[1;37m' "[s]IPGeolacation"
+echo -e '\e[1;37m' "[y]Recondog"
+echo -e '\e[1;37m' "[t]RedHawk"
+echo -e '\e[1;36m' "[i]INFO"
+echo -e '\e[1;35m' "+++++++++++++++++++"
+read -p "Pilih Salah Satu =" act;
+if [ $act = u ]
+then
+figlet -f slant IES SPAM
+git clone https://github.com/Amriez/ERRORsistem.git
+exit
+fi
+if [ $act = 1 ]
+then
+figlet -f  slant SpiderBot 
+echo
+git clone http://github.com/Cvar1984/SpiderBot
+exit
+fi
+if [ $act = 2 ]
+then
+figlet -f slant Dorker Sqli
+echo
+git clone https://github.com/one-onz/DorK3r
+exit
+fi
+if [ $act = 3 ]
+then
+figlet -f slant Multi Bruteforce
+echo
+git clone https://github.com/pirmansx/multi-bruteforce-facebook
+exit
+fi
+if [ $act = 4 ]
+then
+figlet -f slant LiteOTP
+echo
+git clone https://github.com/Cvar1984/LiteOTP
+exit
+fi
+if [ $act = 5 ]
+then
+figlet -f slant hammer
+echo
+git clone https://github.com/cyweb/hammer
+exit
+fi
+if [ $act = 6 ]
+then
+figlet -f slant LITESPAM
+echo
+git clone https://github.com/4L13199/LITESPAM
+exit
+fi
+if [ $act = 7 ]
+then
+figlet -f slant Lazymux
+echo
+git clone https://github.com/Gameye98/Lazymux
+exit
+fi
+if [ $act = 8 ]
+then
+figlet -f slant Tool-X
+echo
+git clone https://github.com/Rajkumrdusad/Tool-X
+exit
+fi
+if [ $act = 9 ]
+then
+figlet -f slant Zambie 
+echo
+git clone https://github.com/zanyarjamal/zambie
+exit
+fi
+if [ $act = 0 ]
+then
+figlet -f slant Admin Penal
+echo
+git clone https://github.com/Techzindia/admin_penal
+exit
+fi
+if [ $act = e ]
+then
+figlet -f slant Instabot
+echo 
+git clone https://github.com/instabot-py/instabot.py
+exit
+fi
+if [ $act = r ]
+then
+figlet -f slant Weeman
+echo 
+git clone https://github.com/evait-security/weeman
+exit
+fi
+if [ $act = R ]
+then
+figlet -f slant hunner 
+echo 
+git clone https://github.com/b3-v3r/Hunner
+exit
+fi
+if [ $act = o ]
+then
+figlet -f slant sqlmap
+echo
+git clone https://github.com/sqlmapproject/sqlmap
+exit
+fi
+if [ $act = rr ]
+then
+figlet -f slant Xerses
+echo
+git clone https://github.com/zanyarjamal/xerxes
+exit
+fi
+if [ $act = s ]
+then
+figlet -f slant IPGeolacation
+echo
+git clone https://github.com/maldevel/IPGeoLocation.git
+exit
+fi
+if [ $act = y ]
+then
+figlet -f slant Recondog 
+echo
+git clone https://github.com/UltimateHackers/ReconDog
+exit
+fi
+if [ $act = t ]
+then
+figlet -f slant RedHawk
+echo
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+exit
+fi
+if [ $act = i ]
+then
+echo -e '\e[1;31m' "INDONESIAN ERROR SYSTEM"
+echo -e "Bagi Kami Tidak Ada Mastah/Master Atau Pun Newbie/Noob..........Bagi Kami Semua Itu Sama ^_<"
+exit
+fi
